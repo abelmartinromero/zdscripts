@@ -1,7 +1,7 @@
 Zendesk Scripts
 ===========
 
-These are some Scripts I personally created and may be useful. Please bear in mind that these are not official Scripts. You are free to use/copy them but please do it at your own risk. There is nothing special to do in order to run them.
+These are some Scripts I personally created and may be useful. Please bear in mind that these are *not official Scripts*. You are free to use/copy them but please do it at your own risk. There is nothing special to do in order to run them.
 
 1. Replace variables needed with your values
 2. Log in into your Zendesk. (I use chrome)
