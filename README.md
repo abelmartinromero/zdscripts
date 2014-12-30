@@ -14,9 +14,9 @@ This is a quick and simple way to perform actions, bear in mind that some script
 
 #### JavaScript
 
-- [Delete all user tickets](https://github.com/abelmartinromero/zdscripts/blob/master/JavaScript/deleteAllUserTickets.js). [Blog Post](http://abelmartinromero.com/2014/12/01/zendesk-script-delete-all-user-tickets/)
-- [Multilanguage Embeddables in HC](https://github.com/abelmartinromero/zdscripts/blob/master/JavaScript/multilanguageEmbeddables.js).[Blog Post](http://abelmartinromero.com/2014/12/07/zendesk-script-multilanguage-embeddables/)
-
+-[Blog Post](http://abelmartinromero.com/2014/12/01/zendesk-script-delete-all-user-tickets/) [Delete all user tickets](https://github.com/abelmartinromero/zdscripts/blob/master/JavaScript/deleteAllUserTickets.js).
+-[Blog Post](http://abelmartinromero.com/2014/12/07/zendesk-script-multilanguage-embeddables/) [Multilanguage Embeddables in HC](https://github.com/abelmartinromero/zdscripts/blob/master/JavaScript/multilanguageEmbeddables.js).
+- [Blog Post](#) [List all suspended users](https://github.com/abelmartinromero/zdscripts/blob/master/JavaScript/listSuspendedUsers.js).
 
 ---
 Feel free to follow my [blog](http://www.abelmartinromero.com) to check the latest updates.
